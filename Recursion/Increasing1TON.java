@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Increasing1TON {
 
     static void printIncreasing(int n) {
         if (n == 1) {
